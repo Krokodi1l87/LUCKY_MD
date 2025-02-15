@@ -146,7 +146,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 <a href='https://t.me/+u3zlb5y6OfxhOTdk' target="_grey"><img alt='TELEGRAM' src='https://img.shields.io/badge/Telegram Group-grey?style=for-the-badge&logo=Telegram&logoColor=blue'/></a>
 <a href='https://www.linkedin.com/in/fredi-ezra-6956352b7' target="_grey"><img alt='LINKEDIN' src='https://img.shields.io/badge/LinkedIn For Dev-grey?style=for-the-badge&logo=linked-In&logoColor=blue'/></a>
 <a href='https://www.tiktok.com/@fredietech' target="_grey"><img alt='TIKTOK' src='https://img.shields.io/badge/TikTok For Dev-grey?style=for-the-badge&logo=tiktok&logoColor=black'/></a>
-<a href='https://www.facebook.com/profile.php?id=61553209932337' target="_grey"><img alt='FACEBOOK' src='https://img.shields.io/badge/Facebook For Dev-grey?style=for-the-badge&logo=facebook&logoColor=blue'/></a>
+<a href='https://www.facebook.com/profile.php?id=491752813668' target="_grey"><img alt='FACEBOOK' src='https://img.shields.io/badge/Facebook For Dev-grey?style=for-the-badge&logo=facebook&logoColor=blue'/></a>
 <a href='https://www.instagram.com/fredi.simba.tz' target="_grey"><img alt='INSTAGRAM' src='https://img.shields.io/badge/Instagram For Dev-grey?style=for-the-badge&logo=instagram&logoColor=purple'/></a>
   <a href='https://www.threads.net/@fredi.simba.tz' target="_grey"><img alt='THREADS' src='https://img.shields.io/badge/Threads For Dev-grey?style=for-the-badge&logo=threads&logoColor=black'/></a>
 </details>
@@ -178,7 +178,7 @@ HEROKU
 <summary>CLICK FOR MORE</summary>
 <a href="https://github.com/Fred1e/LUCKY_MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
-<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+<a href="https://bot-hosting.net/?aff=4915207874838"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
 
 
